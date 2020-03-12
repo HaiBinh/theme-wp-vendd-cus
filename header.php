@@ -23,7 +23,7 @@
 <div class="header">
     <div class="header-background">
         <div class="header-header">
-            <a href="http://192.168.0.113/aeon/">
+            <a href="<?php get_home_url()?>">
                 <nav class="main-logo"></nav>
             </a>
             <ul>
