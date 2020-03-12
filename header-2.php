@@ -24,7 +24,7 @@
     </a>
     <ul style="list-style: none; color: #FFF; display: flex; flex-direction: row; float: right; margin-right: 160px">
         <li style="margin-left: 50px; font-family: SVN-Gotham;font-style: normal;font-weight: 500;font-size: 16px;line-height: 25px;letter-spacing: 0.04em;color: #FFFFFF;">Login | Register</li>
-        <li style="background: url('http://localhost/hb/wp-content/uploads/screenshots/notifications_24px_outlined.svg'); width: 24px; height: 24px; margin-left: 50px"></li>
+        <li style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/notifications_24px_outlined.svg')?>'); width: 24px; height: 24px; margin-left: 50px"></li>
         <a href="<?php echo edd_get_checkout_uri(); ?>">
             <li style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Cart.png')?>'); width: 16px; height: 16px; margin-left: 50px; position: relative; top: 5px">
             </li>
