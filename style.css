@@ -5216,7 +5216,7 @@ aside[class*="widget_edd_"] .widget-download-title {
 
 @font-face {
     font-family: 'SVN-Gotham';
-        src: url('http://192.168.0.113/aeon/wp-content/themes/vendd/inc/fonts/SVN-GOTHAM/Gotham-Medium.otf');
+        src: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/inc/fonts/SVN-GOTHAM/Gotham-Thin.otf/inc/fonts/SVN-GOTHAM/Gotham-Medium.otf');
     /*src: url("/inc/fonts/SVN-GOTHAM/Gotham-Medium.otf");*/
     /*src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');*/
     font-weight: normal;
@@ -5224,7 +5224,7 @@ aside[class*="widget_edd_"] .widget-download-title {
 }
 @font-face {
     font-family: 'SVN-Gotham-thin';
-    src: url('http://192.168.0.113/aeon/wp-content/themes/vendd/inc/fonts/SVN-GOTHAM/Gotham-Thin.otf');
+    src: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/inc/fonts/SVN-GOTHAM/Gotham-Thin.otf');
     /*src: url("/inc/fonts/SVN-GOTHAM/Gotham-Thin.otf");*/
     /*src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');*/
     font-weight: normal;
