@@ -30,9 +30,9 @@
                 <li style="margin-left: 50px; font-family: SVN-Gotham;font-style: normal;font-weight: 500;font-size: 16px;line-height: 25px;letter-spacing: 0.04em;color: #FFFFFF;">
                     Login/Register
                 </li>
-                <li style="background: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/notifications_24px_outlined.svg'); width: 24px; height: 24px; margin-left: 50px"></li>
+                <li style="background: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/notifications_24px_outlined.svg'); width: 24px; height: 24px; margin-left: 50px"></li>
                 <a href="<?php echo edd_get_checkout_uri(); ?>">
-                    <li style="background: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/Cart.png'); width: 16px; height: 16px; margin-left: 50px"></li>
+                    <li style="background: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Cart.png'); width: 16px; height: 16px; margin-left: 50px"></li>
                 </a>
             </ul>
         </div>
@@ -69,7 +69,7 @@
                             <button onclick="<?php echo esc_attr(get_search_query()); ?>">
                                 <!--                    <a href="#"-->
                                 <!--                       style="color: #FFF; text-decoration: none; width: 100%; height: 100%;align-items: center; display: flex; justify-content: center;">-->
-                                <img src="http://192.168.0.113/hb/wp-content/uploads/screenshots/search.png"
+                                <img src="http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/search.png"
                                      style="width: 20px; height: 20px">
                                 <!--                    </a>-->
                             </button>

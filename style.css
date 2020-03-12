@@ -753,7 +753,7 @@ a:focus {
 }
 
 .components-customer {
-    background-image: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/photo-building.jpeg');
+    background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/photo-building.jpeg');
     height: 720px;
     background-repeat-x: no-repeat;
     background-size: cover;
@@ -771,7 +771,7 @@ a:focus {
 .components-register {
     width: 100%;
     height: 575px;
-    background-image: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/open-book.jpg');
+    background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/open-book.jpg');
     background-size: cover;
 }
 
@@ -1034,7 +1034,7 @@ aside[class*="widget_edd_"] .widget-download-with-thumbnail:after {
 .header-background {
     width: 100%;
     /*height: 601px;*/
-    background: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/nen.png');
+    background: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/nen.png');
     background-size: cover;
 }
 
@@ -1117,7 +1117,7 @@ aside[class*="widget_edd_"] .widget-download-with-thumbnail:after {
 .main-logo {
     width: 231px;
     height: 38px;
-    background: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/Logo-02 3.png');
+    background: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Logo-02 3.png');
     position: relative;
     left: 16%;
     top: 24px
@@ -1197,7 +1197,7 @@ aside[class*="widget_edd_"] .widget-download-with-thumbnail:after {
 .banner-statistical {
     width: 100%;
     height: 668px;
-    background: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/86586093.jpg');
+    background: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/86586093.jpg');
     margin-bottom: 100px
 }
 
@@ -1224,7 +1224,7 @@ aside[class*="widget_edd_"] .widget-download-with-thumbnail:after {
 .item-product-background {
     width: 105px;
     height: 157px;
-    background: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/Rectangle%2022.png');
+    background: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2022.png');
 }
 
 .item-content {
@@ -1258,7 +1258,7 @@ aside[class*="widget_edd_"] .widget-download-with-thumbnail:after {
 }
 
 .components-discover {
-    background-image: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/handshake-1600x900.jpg');
+    background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/handshake-1600x900.jpg');
     background-size: cover;
     width: 100%;
     height: 800px;

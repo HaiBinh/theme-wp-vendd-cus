@@ -11,37 +11,37 @@ get_header(); ?>
     <div class="banner-ad">
         <div class="banner-title">CHƯƠNG TRÌNH KHUYẾN MẠI</div>
         <div class="banner-content">
-            <div style="background: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/ctrl-left.png'); width: 60px; height: 60px"></div>
-            <div style="width: 290px; height: 341px; background-image: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/Rectangle%2075.png'); margin-right: 24px">
+            <div style="background: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/ctrl-left.png'); width: 60px; height: 60px"></div>
+            <div style="width: 290px; height: 341px; background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2075.png'); margin-right: 24px">
             </div>
             <div style="width: 290px; height: 341px; display: flex; flex-direction: column; justify-content: space-between; margin-right: 24px">
-                <div style="width: 100%; height: 155px; background-image: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/Rectangle%2076.png')">
+                <div style="width: 100%; height: 155px; background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2076.png')">
                 </div>
-                <div style="width: 100%; height: 155px; background-image: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/Rectangle%2079.png')">
+                <div style="width: 100%; height: 155px; background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2079.png')">
                 </div>
             </div>
-            <div style="width: 290px; height: 341px; background-image: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/Rectangle%2078.png'); margin-right: 24px">
+            <div style="width: 290px; height: 341px; background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2078.png'); margin-right: 24px">
             </div>
             <div style="width: 290px; height: 341px; display: flex; flex-direction: column; justify-content: space-between; margin-right: 24px">
-                <div style="width: 100%; height: 155px; background-image: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/Rectangle%2079.png')">
+                <div style="width: 100%; height: 155px; background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2079.png')">
                 </div>
-                <div style="width: 100%; height: 155px; background-image: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/Rectangle%2076.png')">
+                <div style="width: 100%; height: 155px; background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2076.png')">
                 </div>
             </div>
-            <div style="background: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/ctrl-right.png'); width: 60px; height: 60px"></div>
+            <div style="background: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/ctrl-right.png'); width: 60px; height: 60px"></div>
         </div>
         <div class="banner-content-2">
             <div class="slides-1">
-                <img src="http://192.168.0.113/hb/wp-content/uploads/screenshots/Rectangle%2075.png">
+                <img src="http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2075.png">
             </div>
 <!--            <div class="slides-2">-->
-<!--                <img src="http://192.168.0.113/hb/wp-content/uploads/screenshots/Rectangle%2076.png">-->
+<!--                <img src="http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2076.png">-->
 <!--            </div>-->
 <!--            <div class="slides-1">-->
-<!--                <img src="http://192.168.0.113/hb/wp-content/uploads/screenshots/Rectangle%2079.png">-->
+<!--                <img src="http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2079.png">-->
 <!--            </div>-->
 <!--            <div class="slides-2">-->
-<!--                <img src="http://192.168.0.113/hb/wp-content/uploads/screenshots/Rectangle%2078.png">-->
+<!--                <img src="http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2078.png">-->
 <!--            </div>-->
         </div>
         <div class="button-readmore"><button>XEM THÊM</button></div>
@@ -154,7 +154,7 @@ get_header(); ?>
             </div>
             <div class="components-discover-it">
                 <div class="cd-item-item">
-                    <div style="width: 105px; height: 157px; background-image: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/Rectangle103.png'); position: relative; left: -32px; top: -10px">
+                    <div style="width: 105px; height: 157px; background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle103.png'); position: relative; left: -32px; top: -10px">
                         <div style="width: 40px; height: 40px; border-radius: 50%; background: #C40504; box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25); position: relative; right: -85px; top: -20px"><p style=" color: #FFF; text-align: center; position: relative; top: 10px">-10%</p></div>
                     </div>
                     <div style="width: 230px; position: relative; top: 24px">
@@ -166,7 +166,7 @@ get_header(); ?>
                     </div>
                 </div>
                 <div class="cd-item-item"">
-                    <div style="width: 105px; height: 157px; background-image: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/Rectangle103.png'); position: relative; left: -32px; top: -10px">
+                    <div style="width: 105px; height: 157px; background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle103.png'); position: relative; left: -32px; top: -10px">
                         <div style="width: 40px; height: 40px; border-radius: 50%; background: #C40504; box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25); position: relative; right: -85px; top: -20px"><p style=" color: #FFF; text-align: center; position: relative; top: 10px">-10%</p></div>
                     </div>
                     <div style="width: 230px; position: relative; top: 24px">
@@ -180,7 +180,7 @@ get_header(); ?>
             </div>
             <div class="components-discover-it">
                 <div class="cd-item-item"">
-                    <div style="width: 105px; height: 157px; background-image: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/Rectangle103.png'); position: relative; left: -32px; top: -10px">
+                    <div style="width: 105px; height: 157px; background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle103.png'); position: relative; left: -32px; top: -10px">
                         <div style="width: 40px; height: 40px; border-radius: 50%; background: #C40504; box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25); position: relative; right: -85px; top: -20px"><p style=" color: #FFF; text-align: center; position: relative; top: 10px">-10%</p></div>
                     </div>
                     <div style="width: 230px; position: relative; top: 24px">
@@ -192,7 +192,7 @@ get_header(); ?>
                     </div>
                 </div>
                 <div class="cd-item-item">
-                    <div style="width: 105px; height: 157px; background-image: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/Rectangle103.png'); position: relative; left: -32px; top: -10px">
+                    <div style="width: 105px; height: 157px; background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle103.png'); position: relative; left: -32px; top: -10px">
                         <div style="width: 40px; height: 40px; border-radius: 50%; background: #C40504; box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25); position: relative; right: -85px; top: -20px"><p style=" color: #FFF; text-align: center; position: relative; top: 10px">-10%</p></div>
                     </div>
                     <div style="width: 230px; position: relative; top: 24px">
@@ -215,7 +215,7 @@ get_header(); ?>
             </ul>
         </div>
         <div style="width: 50%;">
-            <div style="width: 100%; height: 325px; background: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/photo-building.jpeg'); background-size: cover"></div>
+            <div style="width: 100%; height: 325px; background: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/photo-building.jpeg'); background-size: cover"></div>
         </div>
     </div>
     <div class="components-customer">
@@ -229,7 +229,7 @@ get_header(); ?>
             </div>
             <div style="display: flex; flex-direction: row; justify-content: space-around">
                 <div style="width: 41.8%; height: 373px;  background: #D3E3F0; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); backdrop-filter: blur(10px); display: flex; flex-direction: column; align-items: center">
-                    <div style="width: 88px; height: 88px; border-radius: 50%; background: url( 'http://192.168.0.113/hb/wp-content/uploads/screenshots/Ellipse 11.png');background-size: cover; position: relative; top: -37px"></div>
+                    <div style="width: 88px; height: 88px; border-radius: 50%; background: url( 'http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Ellipse 11.png');background-size: cover; position: relative; top: -37px"></div>
                     <div style="position: relative; top: -17px; color: #1E4767; "><strong>Mr A</strong></div>
                     <div style="color: #1E4767">Investor</div>
 
@@ -241,7 +241,7 @@ get_header(); ?>
                         est sodales id “</p>
                 </div>
                 <div style="width: 41.8%; height: 373px;  background: #D3E3F0; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); backdrop-filter: blur(10px); display: flex; flex-direction: column; align-items: center">
-                    <div style="width: 88px; height: 88px; border-radius: 50%; background: url( 'http://192.168.0.113/hb/wp-content/uploads/screenshots/anh2.png');background-size: cover; position: relative; top: -37px"></div>
+                    <div style="width: 88px; height: 88px; border-radius: 50%; background: url( 'http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/anh2.png');background-size: cover; position: relative; top: -37px"></div>
                     <div style="position: relative; top: -17px; color: #1E4767; "><strong>Mr A</strong></div>
                     <div style="color: #1E4767">Investor</div>
 
@@ -261,50 +261,50 @@ get_header(); ?>
                         display: grid; align-items: center; text-align: center; letter-spacing: 0.04em; color: #353535; width: 35%; position: relative; left: 32%;">
                 CÁC ĐỐI TÁC CHIẾN LƯỢC CỦA CHÚNG TÔI</div>
             <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
-                <a><img src=" http://192.168.0.113/hb/wp-content/uploads/screenshots/ctrl-left.png"/></a>
+                <a><img src=" http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/ctrl-left.png"/></a>
                 <div style="height: 400px; width: 90%; display: table">
                     <div style="display: table-row; width: 100%; height: 200px;">
                         <div style="display: table-cell; width: 200px;">
-                            <div style="background: url(' http://192.168.0.113/hb/wp-content/uploads/screenshots/Group 170.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 170.png'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px;">
-                            <div style="background: url(' http://192.168.0.113/hb/wp-content/uploads/screenshots/Group 169.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 169.png'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://192.168.0.113/hb/wp-content/uploads/screenshots/Group 168.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 168.png'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://192.168.0.113/hb/wp-content/uploads/screenshots/Group 167.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 167.png'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://192.168.0.113/hb/wp-content/uploads/screenshots/Group 166.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 166.png'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://192.168.0.113/hb/wp-content/uploads/screenshots/Group 165.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 165.png'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                     </div>
                     <div style="display: table-row; width: 100%; height: 200px">
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://192.168.0.113/hb/wp-content/uploads/screenshots/Group 171.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 171.png'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://192.168.0.113/hb/wp-content/uploads/screenshots/Group 172.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 172.png'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://192.168.0.113/hb/wp-content/uploads/screenshots/Group 173.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 173.png'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://192.168.0.113/hb/wp-content/uploads/screenshots/Group 166.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 166.png'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://192.168.0.113/hb/wp-content/uploads/screenshots/Group 162.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 162.png'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://192.168.0.113/hb/wp-content/uploads/screenshots/Group 163.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 163.png'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                     </div>
                 </div>
-                <a><img src=" http://192.168.0.113/hb/wp-content/uploads/screenshots/ctrl-right.png"/></a>
+                <a><img src=" http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/ctrl-right.png"/></a>
             </div>
         </div>
     </div>

@@ -33,7 +33,7 @@
  #page -->
 <div class="footer">
     <div class="footer-content">
-        <div style="width: 229px; height: 38px; background: url('http://192.168.0.113/hb/wp-content/uploads/screenshots/Logo-02%202.png'); background-size: cover; position: relative; top: 25px"></div>
+        <div style="width: 229px; height: 38px; background: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Logo-02%202.png'); background-size: cover; position: relative; top: 25px"></div>
         <ul style="list-style: square; margin-right: 45px"><strong>Công ty</strong>
             <li style="position: relative; left: 19px; top: 10px; line-height: 25px; font-family: SVN-Gotham-thin;font-weight: bold; font-size: 12px;">Về chúng tôi</li>
             <li style="position: relative; left: 19px; top: 10px; line-height: 25px; font-family: SVN-Gotham-thin;font-weight: bold; font-size: 12px;">Đối tác</li>
