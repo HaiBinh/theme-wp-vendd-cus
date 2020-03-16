@@ -32,7 +32,7 @@ get_header(); ?>
         </div>
         <div class="banner-content-2">
             <div class="slides-1">
-                <img src="http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2075.png">
+                <img src="<?php echo(get_home_url() . "wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2075.png")?>">
             </div>
 <!--            <div class="slides-2">-->
 <!--                <img src="http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2076.png">-->
@@ -46,7 +46,7 @@ get_header(); ?>
         </div>
         <div class="button-readmore"><button>XEM THÊM</button></div>
     </div>
-    <div class="banner-statistical">
+    <div class="banner-statistical" style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/86586093.jpg')?>');">
         <div style="width: 100%; height: 100%; background-color: #353535; opacity: 0.9; display: flex; flex-direction: column; justify-content: center; align-items: center; align-content: center;">
             <div style="font-style: normal; font-weight: bold; font-size: 32px; line-height: 48px; display: flex; text-align: center;
                         letter-spacing: 0.04em; text-transform: uppercase; color: #FFFFFF; opacity: 0.85; width: 40%; height: 50%; position: relative; top: 50px;">
@@ -77,45 +77,45 @@ get_header(); ?>
         <div class="cp-best-sale-content">
             <div style="display: table-row; width: 80%; height: 200px;">
                 <div class="item-product">
-                    <div class="item-product-background"></div>
+                    <div class="item-product-background" style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2022.png')?>');"></div>
                     <div class="item-content">Small Molecule Drug Discovery Market - Growth, Trends, and...</div>
                 </div>
                 <div class="item-product">
-                    <div class="item-product-background"></div>
+                    <div class="item-product-background" style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2022.png')?>');"></div>
                     <div class="item-content">Small Molecule Drug Discovery Market - Growth, Trends, and...</div>
                 </div>
                 <div class="item-product">
-                    <div class="item-product-background"></div>
+                    <div class="item-product-background" style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2022.png')?>');"></div>
                     <div class="item-content">Small Molecule Drug Discovery Market - Growth, Trends, and...</div>
                 </div>
                 <div class="item-product">
-                    <div class="item-product-background"></div>
+                    <div class="item-product-background" style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2022.png')?>');"></div>
                     <div class="item-content">Small Molecule Drug Discovery Market - Growth, Trends, and...</div>
                 </div>
                 <div class="item-product">
-                    <div class="item-product-background"></div>
+                    <div class="item-product-background" style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2022.png')?>');"></div>
                     <div class="item-content">Small Molecule Drug Discovery Market - Growth, Trends, and...</div>
                 </div>
             </div>
             <div style="display: table-row; width: 80%; height: 200px;">
                 <div class="item-product">
-                    <div class="item-product-background"></div>
+                    <div class="item-product-background" style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2022.png')?>');"></div>
                     <div class="item-content">Small Molecule Drug Discovery Market - Growth, Trends, and...</div>
                 </div>
                 <div class="item-product">
-                    <div class="item-product-background"></div>
+                    <div class="item-product-background" style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2022.png')?>');"></div>
                     <div class="item-content">Small Molecule Drug Discovery Market - Growth, Trends, and...</div>
                 </div>
                 <div class="item-product">
-                    <div class="item-product-background"></div>
+                    <div class="item-product-background" style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2022.png')?>');"></div>
                     <div class="item-content">Small Molecule Drug Discovery Market - Growth, Trends, and...</div>
                 </div>
                 <div class="item-product">
-                    <div class="item-product-background"></div>
+                    <div class="item-product-background" style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2022.png')?>');"></div>
                     <div class="item-content">Small Molecule Drug Discovery Market - Growth, Trends, and...</div>
                 </div>
                 <div class="item-product">
-                    <div class="item-product-background"></div>
+                    <div class="item-product-background" style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2022.png')?>');"></div>
                     <div class="item-content">Small Molecule Drug Discovery Market - Growth, Trends, and...</div>
                 </div>
             </div>
@@ -123,38 +123,38 @@ get_header(); ?>
         <div class="cp-best-sale-content-2">
             <div style="display: table-row; width: 80%; height: 200px;">
                 <div class="item-product">
-                    <div class="item-product-background"></div>
+                    <div class="item-product-background" style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2022.png')?>');"></div>
                     <div class="item-content">Small Molecule Drug Discovery Market - Growth, Trends, and...</div>
                 </div>
                 <div class="item-product">
-                    <div class="item-product-background"></div>
+                    <div class="item-product-background" style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2022.png')?>');"></div>
                     <div class="item-content">Small Molecule Drug Discovery Market - Growth, Trends, and...</div>
                 </div>
             </div>
             <div style="display: table-row; width: 80%; height: 200px;">
                 <div class="item-product">
-                    <div class="item-product-background"></div>
+                    <div class="item-product-background" style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2022.png')?>');"></div>
                     <div class="item-content">Small Molecule Drug Discovery Market - Growth, Trends, and...</div>
                 </div>
                 <div class="item-product">
-                    <div class="item-product-background"></div>
+                    <div class="item-product-background" style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2022.png')?>');"></div>
                     <div class="item-content">Small Molecule Drug Discovery Market - Growth, Trends, and...</div>
                 </div>
             </div>
         </div>
         <div class="button-readmore"><button>XEM THÊM</button></div>
     </div>
-    <div class="components-discover">
+    <div class="components-discover" style="background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/handshake-1600x900.jpg')?>');">
         <div class="components-discover-bg">
             <div style="width: 287px; height: 500px; display: flex; flex-direction: column; justify-content: space-around;">
                 <div style="width: 263px;  font-style: normal;font-weight: bold;font-size: 32px;line-height: 48px;display: flex;align-items: center;letter-spacing: 0.04em;color: #FFFFFF;"><strong>KHÁM PHÁ INTELLSTOCK</strong></div>
                 <div style="font-style: normal;font-weight: bold;font-size: 14px;line-height: 25px;display: flex; align-items: center;letter-spacing: 0.04em;color: #FFFFFF;
                             font-family: SVN-Gotham-thin">Officia mollit voluptate exercitation iminim fugiat deserunt consequat. Irure adipisicing amet ex adipisicing dolor culpa incididunt irure ad reprehenderit velit. Fugiat proident excepteur sint nostrud.</div>
-                <div><button style="width: 185px; height: 44px; border: solid 1px  #FFF; background-color: transparent; color: #FFF"><strong>XEM TẤT CẢ</strong></button></div>
+                <div><button style="    width: 185px; height: 44px; border: solid 1px  #FFF; background-color: transparent; color: #FFF"><strong>XEM TẤT CẢ</strong></button></div>
             </div>
             <div class="components-discover-it">
                 <div class="cd-item-item">
-                    <div style="width: 105px; height: 157px; background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle103.png'); position: relative; left: -32px; top: -10px">
+                    <div style="width: 105px; height: 157px; background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle103.png')?>'); position: relative; left: -32px; top: -10px">
                         <div style="width: 40px; height: 40px; border-radius: 50%; background: #C40504; box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25); position: relative; right: -85px; top: -20px"><p style=" color: #FFF; text-align: center; position: relative; top: 10px">-10%</p></div>
                     </div>
                     <div style="width: 230px; position: relative; top: 24px">
@@ -166,7 +166,7 @@ get_header(); ?>
                     </div>
                 </div>
                 <div class="cd-item-item"">
-                    <div style="width: 105px; height: 157px; background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle103.png'); position: relative; left: -32px; top: -10px">
+                    <div style="width: 105px; height: 157px; background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle103.png')?>'); position: relative; left: -32px; top: -10px">
                         <div style="width: 40px; height: 40px; border-radius: 50%; background: #C40504; box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25); position: relative; right: -85px; top: -20px"><p style=" color: #FFF; text-align: center; position: relative; top: 10px">-10%</p></div>
                     </div>
                     <div style="width: 230px; position: relative; top: 24px">
@@ -180,7 +180,7 @@ get_header(); ?>
             </div>
             <div class="components-discover-it">
                 <div class="cd-item-item"">
-                    <div style="width: 105px; height: 157px; background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle103.png'); position: relative; left: -32px; top: -10px">
+                    <div style="width: 105px; height: 157px; background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle103.png')?>'); position: relative; left: -32px; top: -10px">
                         <div style="width: 40px; height: 40px; border-radius: 50%; background: #C40504; box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25); position: relative; right: -85px; top: -20px"><p style=" color: #FFF; text-align: center; position: relative; top: 10px">-10%</p></div>
                     </div>
                     <div style="width: 230px; position: relative; top: 24px">
@@ -192,7 +192,7 @@ get_header(); ?>
                     </div>
                 </div>
                 <div class="cd-item-item">
-                    <div style="width: 105px; height: 157px; background-image: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle103.png'); position: relative; left: -32px; top: -10px">
+                    <div style="width: 105px; height: 157px; background-image: url('<?php echo(get_home_url() .'/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle103.png')?>'); position: relative; left: -32px; top: -10px">
                         <div style="width: 40px; height: 40px; border-radius: 50%; background: #C40504; box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25); position: relative; right: -85px; top: -20px"><p style=" color: #FFF; text-align: center; position: relative; top: 10px">-10%</p></div>
                     </div>
                     <div style="width: 230px; position: relative; top: 24px">
@@ -215,10 +215,10 @@ get_header(); ?>
             </ul>
         </div>
         <div style="width: 50%;">
-            <div style="width: 100%; height: 325px; background: url('http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/photo-building.jpeg'); background-size: cover"></div>
+            <div style="width: 100%; height: 325px; background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/photo-building.jpeg')?>'); background-size: cover"></div>
         </div>
     </div>
-    <div class="components-customer">
+    <div class="components-customer" style="background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/photo-building.jpeg')?>');">
         <div style="display: flex; flex-direction: column; align-items: center; width: 100%; height: 100%; background-color: rgba(30, 71, 103, 0.7); ">
             <div class="a_3_header" style="display: flex;flex-direction: column; flex-wrap: nowrap; justify-content: space-around;
                     align-items: center;align-content: stretch; text-align: center; width: 100%; height: 30%;">
@@ -229,7 +229,7 @@ get_header(); ?>
             </div>
             <div style="display: flex; flex-direction: row; justify-content: space-around">
                 <div style="width: 41.8%; height: 373px;  background: #D3E3F0; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); backdrop-filter: blur(10px); display: flex; flex-direction: column; align-items: center">
-                    <div style="width: 88px; height: 88px; border-radius: 50%; background: url( 'http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Ellipse 11.png');background-size: cover; position: relative; top: -37px"></div>
+                    <div style="width: 88px; height: 88px; border-radius: 50%; background: url( '<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Ellipse 11.png')?>');background-size: cover; position: relative; top: -37px"></div>
                     <div style="position: relative; top: -17px; color: #1E4767; "><strong>Mr A</strong></div>
                     <div style="color: #1E4767">Investor</div>
 
@@ -241,7 +241,7 @@ get_header(); ?>
                         est sodales id “</p>
                 </div>
                 <div style="width: 41.8%; height: 373px;  background: #D3E3F0; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); backdrop-filter: blur(10px); display: flex; flex-direction: column; align-items: center">
-                    <div style="width: 88px; height: 88px; border-radius: 50%; background: url( 'http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/anh2.png');background-size: cover; position: relative; top: -37px"></div>
+                    <div style="width: 88px; height: 88px; border-radius: 50%; background: url( '<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/anh2.png')?>');background-size: cover; position: relative; top: -37px"></div>
                     <div style="position: relative; top: -17px; color: #1E4767; "><strong>Mr A</strong></div>
                     <div style="color: #1E4767">Investor</div>
 
@@ -261,54 +261,54 @@ get_header(); ?>
                         display: grid; align-items: center; text-align: center; letter-spacing: 0.04em; color: #353535; width: 35%; position: relative; left: 32%;">
                 CÁC ĐỐI TÁC CHIẾN LƯỢC CỦA CHÚNG TÔI</div>
             <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
-                <a><img src=" http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/ctrl-left.png"/></a>
+                <a><img src=" <?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/ctrl-left.png')?>"/></a>
                 <div style="height: 400px; width: 90%; display: table">
                     <div style="display: table-row; width: 100%; height: 200px;">
                         <div style="display: table-cell; width: 200px;">
-                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 170.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' <?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 170.png')?>'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px;">
-                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 169.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' <?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 169.png')?>'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 168.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' <?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 168.png')?>'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 167.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' <?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 167.png')?>'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 166.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' <?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 166.png')?>'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 165.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' <?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 165.png')?>'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                     </div>
                     <div style="display: table-row; width: 100%; height: 200px">
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 171.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' <?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 171.png')?>'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 172.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' <?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 172.png')?>'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 173.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' <?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 173.png')?>'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 166.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' <?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 166.png')?>'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 162.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url(' <?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 162.png')?>'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                         <div style="display: table-cell; width: 200px">
-                            <div style="background: url(' http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 163.png'); height: 185px; width: 185px;display: table-cell"></div>
+                            <div style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Group 163.png')?>'); height: 185px; width: 185px;display: table-cell"></div>
                         </div>
                     </div>
                 </div>
-                <a><img src=" http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/ctrl-right.png"/></a>
+                <a><img src=" <?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/ctrl-right.png')?>"/></a>
             </div>
         </div>
     </div>
-    <div class="components-register">
+    <div class="components-register" style="background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/open-book.jpg')?>');">
         <div style="width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.7); display: flex; flex-direction: column; justify-content: center; align-items: center">
             <div style="font-style: normal;font-weight: bold;font-size: 32px;line-height: 48px;text-align: center;letter-spacing: 0.04em;text-transform: uppercase;color: #FFFFFF; position: relative; bottom: 20px">ĐĂNG KÍ NHẬN TIN</div>
             <div style="width: 405px; font-style: normal;font-weight: bold;font-size: 18px;line-height: 32px;text-align: center;letter-spacing: 0.04em;color: #FFFFFF; font-family: SVN-Gotham-thin;">

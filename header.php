@@ -21,10 +21,10 @@
 <body <?php body_class(); ?>>
 
 <div class="header">
-    <div class="header-background">
+    <div class="header-background" style="background: url('<? echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/nen.png')?>'); width: 100%; background-size: cover;">
         <div class="header-header">
             <a href="<?php get_home_url()?>">
-                <nav class="main-logo"></nav>
+                <nav class="main-logo" style="background: url('<? echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Logo-02 3.png')?>');"></nav>
             </a>
             <ul>
                 <li style="margin-left: 50px; font-family: SVN-Gotham;font-style: normal;font-weight: 500;font-size: 16px;line-height: 25px;letter-spacing: 0.04em;color: #FFFFFF;">
