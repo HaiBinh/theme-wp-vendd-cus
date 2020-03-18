@@ -187,7 +187,7 @@
                 </div>
                 <div style="width: 100%; position: relative; top: 53px; left: 17px; padding: 10px 0">
                     <div style="width: 90%; height: 41px; border-radius: 4px; position: relative; border: 1px solid #F11910">
-                        <img src="<?php echo(get_home_url() . 'wp-content/themes/theme-wp-vendd-cus/screenshots/Group.png')?>"
+                        <img src="<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Group.png')?>"
                              style="position: relative; left: 43px; top: 3px; width: 16px; height: 16px; z-index: 2;"/>
                         <button style="height: 38px; border-radius: 4px; color: #F11910; border: 0; font-family: SVN-Gotham;
                         font-style: normal;font-weight: 500;font-size: 13px;line-height: 25px;letter-spacing: 0.04em; position: relative; left: 20%; z-index: 1; background: #FFF; outline: none">
