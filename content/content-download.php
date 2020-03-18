@@ -11,7 +11,7 @@
             <div  style="width: 100%; height: 189px">
                 <div  style="width: 125px; height: 100%; display: inline-block">
                     <div
-                         style="width: 105px; height: 157px; background: url('http://localhost/hb/wp-content/uploads/screenshots/Rectangle%20103.png'); position: relative; top: 20px;">
+                         style="width: 105px; height: 157px; background: url('<?php echo (get_home_url() . '/wp-content/uploads/screenshots/Rectangle%20103.png')?>'); position: relative; top: 20px;">
                     </div>
                     <div
                          style="width: 40px; height: 40px; border-radius: 50%; background: #C40504;box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25); position: relative; top:-156px; left: 85px;">
@@ -106,7 +106,7 @@
                         <div  style="width: 100%; display: flex; flex-direction: column;">
                             <div
                                  style="width: 100%; border-bottom: solid 1px rgba(196, 196, 196, 0.6); margin-top: 32px">
-                                <div style="background: url('http://localhost/hb/wp-content/uploads/screenshots/anh2.png'); width: 60px; height: 60px; background-size: cover; border-radius: 50px; display: inline-block"></div>
+                                <div style="background: url('<?php echo(get_home_url().'/wp-content/uploads/screenshots/anh2.png')?>'); width: 60px; height: 60px; background-size: cover; border-radius: 50px; display: inline-block"></div>
                                 <div style="position: relative; left: 80px; display: inline-block; bottom: 60px">
                                     <div>Lily Richards</div>
                                     <div style="position: relative; top: 5px; font-family: Gotham; font-style: normal; font-weight: normal; font-size: 14px; line-height: 25px; letter-spacing: 0.04em; color: #5A5A5A;">
@@ -121,7 +121,7 @@
                             </div>
                             <div
                                  style="width: 100%;border-bottom: solid 1px rgba(196, 196, 196, 0.6); margin-top: 32px;">
-                                <div style="background: url('http://localhost/hb/wp-content/uploads/screenshots/anh2.png'); width: 60px; height: 60px; background-size: cover; border-radius: 50px; display: inline-block"></div>
+                                <div style="background: url('<?php echo(get_home_url().'/wp-content/uploads/screenshots/anh2.png')?>'); width: 60px; height: 60px; background-size: cover; border-radius: 50px; display: inline-block"></div>
                                 <div style="position:relative; left: 80px; display: inline-block; bottom: 60px">
                                     <div>Lily Richards</div>
                                     <div style="position: relative; top: 5px; font-family: Gotham; font-style: normal; font-weight: normal; font-size: 14px; line-height: 25px; letter-spacing: 0.04em; color: #5A5A5A;">
@@ -136,7 +136,7 @@
                             </div>
                             <div
                                  style="width: 100%;border-bottom: solid 1px rgba(196, 196, 196, 0.6); margin-top: 32px;">
-                                <div style="background: url('http://localhost/hb/wp-content/uploads/screenshots/anh2.png'); width: 60px; height: 60px; background-size: cover; border-radius: 50px; display: inline-block"></div>
+                                <div style="background: url('<?php echo(get_home_url() . '/uploads/screenshots/anh2.png')?>'); width: 60px; height: 60px; background-size: cover; border-radius: 50px; display: inline-block"></div>
                                 <div style="position:relative; left: 80px; display: inline-block; bottom: 60px">
                                     <div>Lily Richards</div>
                                     <div style="position: relative; top: 5px; font-family: Gotham; font-style: normal; font-weight: normal; font-size: 14px; line-height: 25px; letter-spacing: 0.04em; color: #5A5A5A;">
@@ -187,7 +187,7 @@
                 </div>
                 <div style="width: 100%; position: relative; top: 53px; left: 17px; padding: 10px 0">
                     <div style="width: 90%; height: 41px; border-radius: 4px; position: relative; border: 1px solid #F11910">
-                        <img src="http://localhost/hb/wp-content/uploads/screenshots/Group.png"
+                        <img src="<?php echo(get_home_url() . '/wp-content/uploads/screenshots/Group.png')?>"
                              style="position: relative; left: 43px; top: 3px; width: 16px; height: 16px; z-index: 2;"/>
                         <button style="height: 38px; border-radius: 4px; color: #F11910; border: 0; font-family: SVN-Gotham;
                         font-style: normal;font-weight: 500;font-size: 13px;line-height: 25px;letter-spacing: 0.04em; position: relative; left: 20%; z-index: 1; background: #FFF; outline: none">
@@ -213,7 +213,7 @@
                 <div
                      style="display: flex; flex-direction: column; width: 100%; height: 296px; align-items: center; position: relative; top: 32px">
                     <div
-                         style="width: 105px; height: 157px; background: url('http://localhost/hb/wp-content/uploads/screenshots/Rectangle%20103.png'); box-shadow: 10px 4px 12px rgba(0, 0, 0, 0.25); position: relative; top: 20px">
+                         style="width: 105px; height: 157px; background: url('<?php echo(get_home_url().'/wp-content/uploads/screenshots/Rectangle%20103.png')?>'); box-shadow: 10px 4px 12px rgba(0, 0, 0, 0.25); position: relative; top: 20px">
                         <div style="width: 40px; height: 40px; border-radius: 50px; background: #C40504;box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25); position: relative; top:-20px; left: 85px;">
                             <a href="#"
                                style="color: #fff; text-align: center;text-decoration: none; position: relative; left: 6px; top: 12px; font-size: 14px">-10%</a>
@@ -227,7 +227,7 @@
                 <div
                      style="display: flex; flex-direction: column; width: 100%; height: 296px; align-items: center; position: relative; top: 32px">
                     <div
-                         style="width: 105px; height: 157px; background: url('http://localhost/hb/wp-content/uploads/screenshots/Rectangle%20103.png'); box-shadow: 10px 4px 12px rgba(0, 0, 0, 0.25); position: relative; top: 20px">
+                         style="width: 105px; height: 157px; background: url('<?php echo(get_home_url().'/wp-content/uploads/screenshots/Rectangle%20103.png')?>'); box-shadow: 10px 4px 12px rgba(0, 0, 0, 0.25); position: relative; top: 20px">
                         <div style="width: 40px; height: 40px; border-radius: 50px; background: #C40504;box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25); position: relative; top:-20px; left: 85px;">
                             <a href="#"
                                style="color: #fff; text-align: center;text-decoration: none; position: relative; left: 6px; top: 12px; font-size: 14px">-10%</a>
@@ -241,7 +241,7 @@
                 <div
                      style="display: flex; flex-direction: column; width: 100%; height: 296px; align-items: center; position: relative; top: 32px">
                     <div
-                         style="width: 105px; height: 157px; background: url('http://localhost/hb/wp-content/uploads/screenshots/Rectangle%20103.png'); box-shadow: 10px 4px 12px rgba(0, 0, 0, 0.25); position: relative; top: 20px">
+                         style="width: 105px; height: 157px; background: url('<?php echo(get_home_url().'/wp-content/uploads/screenshots/Rectangle%20103.png')?>'); box-shadow: 10px 4px 12px rgba(0, 0, 0, 0.25); position: relative; top: 20px">
                         <div style="width: 40px; height: 40px; border-radius: 50px; background: #C40504;box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25); position: relative; top:-20px; left: 85px;">
                             <a href="#"
                                style="color: #fff; text-align: center;text-decoration: none; position: relative; left: 6px; top: 12px; font-size: 14px">-10%</a>
