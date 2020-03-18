@@ -11,28 +11,28 @@ get_header(); ?>
     <div class="banner-ad">
         <div class="banner-title">CHƯƠNG TRÌNH KHUYẾN MẠI</div>
         <div class="banner-content">
-            <div style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/ctrl-left.png')?>'); width: 60px; height: 60px"></div>
-            <div style="width: 290px; height: 341px; background-image: url('<?php echo(get_home_url(). '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2075.png')?>'); margin-right: 24px">
+            <div style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/ctrl-left.png') ?>'); width: 60px; height: 60px"></div>
+            <div style="width: 290px; height: 341px; background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2075.png') ?>'); margin-right: 24px">
             </div>
             <div style="width: 290px; height: 341px; display: flex; flex-direction: column; justify-content: space-between; margin-right: 24px">
-                <div style="width: 100%; height: 155px; background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2076.png')?>')">
+                <div style="width: 100%; height: 155px; background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2076.png') ?>');">
                 </div>
-                <div style="width: 100%; height: 155px; background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2079.png')?>')">
+                <div style="width: 100%; height: 155px; background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2079.png') ?>');">
                 </div>
             </div>
-            <div style="width: 290px; height: 341px; background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2078.png')?>'); margin-right: 24px">
+            <div style="width: 290px; height: 341px; background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2078.png') ?>'); margin-right: 24px">
             </div>
             <div style="width: 290px; height: 341px; display: flex; flex-direction: column; justify-content: space-between; margin-right: 24px">
-                <div style="width: 100%; height: 155px; background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2079.png')?>')">
+                <div style="width: 100%; height: 155px; background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2079.png') ?>')">
                 </div>
-                <div style="width: 100%; height: 155px; background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2076.png')?>')">
+                <div style="width: 100%; height: 155px; background-image: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2076.png') ?>')">
                 </div>
             </div>
-            <div style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/ctrl-right.png')?>'); width: 60px; height: 60px"></div>
+            <div style="background: url('<?php echo(get_home_url() . '/wp-content/themes/theme-wp-vendd-cus/screenshots/ctrl-right.png') ?>'); width: 60px; height: 60px"></div>
         </div>
         <div class="banner-content-2">
             <div class="slides-1">
-                <img src="<?php echo(get_home_url() . "wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2075.png")?>">
+                <img src="<?php echo(get_home_url() . "wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2075.png") ?>">
             </div>
 <!--            <div class="slides-2">-->
 <!--                <img src="http://demo.intellstock.com/wp-content/themes/theme-wp-vendd-cus/screenshots/Rectangle%2076.png">-->
